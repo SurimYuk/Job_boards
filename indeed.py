@@ -31,9 +31,8 @@ def extract_job(html):
       else:
           company = company.string
       company = company.strip()
-    except Exception as ex:
-      print(ex)
-      print(title)
+    except:
+      pass
 
     location = html.find("div", {"class": "recJobLoc"})["data-rc-loc"]
     job_id = html["data-jk"]

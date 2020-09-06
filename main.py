@@ -39,7 +39,7 @@ def export():
     if not jobs:
       raise Exception()
     save_to_file(jobs, word)
-    return send_file(f"{word}.csv", as_attachment=True)
+    return send_file(f"csv/{word}.csv", as_attachment=True)
   except:
     return redirect("/")
 

@@ -48,3 +48,6 @@ https://repl.it/@SurimYuk/SuperScrapper
 > Download the search results in the form of a CSV file.
 
 --------
+## Preview
+![image](https://user-images.githubusercontent.com/33217962/92355401-1a8dc400-f11f-11ea-916d-55466eecbd29.png)
+![image](https://user-images.githubusercontent.com/33217962/92355375-0b0e7b00-f11f-11ea-9ad4-5ad67a810b47.png)

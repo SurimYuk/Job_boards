@@ -1,5 +1,5 @@
 # Remote_job_searcher
-Web page where you can search for a remote job using web scraping.
+Web page where you can search for a remote job using web scraping.<br>
 https://repl.it/@SurimYuk/SuperScrapper
 
 --------
